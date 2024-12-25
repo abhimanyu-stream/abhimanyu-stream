@@ -34,5 +34,6 @@ Instead of this
 2. Or, You can start with front end development
 3. Or, learn CI/CD pipeline creating on any cloud provider
 4. Or, be SQL query writing expert
+5. Or, do MBA from IIM
    
 
