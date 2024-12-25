@@ -27,7 +27,7 @@ Do not choose Java as a career path as a fresher.
 
 Instead of this
 
-1. in development profile you can start with C/C++/JavaScript/Python with knowledge of [Mathematics/Statistics/Algorithm Data structure/ Finance Mathematics/Statistics ]. You can be a Quant developer/ Neural network developer under Machine learning which high paying job and your career will be secured
+1. in development profile you can start with C/C++/Rust/JavaScript/Python with knowledge of [Mathematics/Statistics/Algorithm Data structure/ Finance Mathematics/Statistics ]. You can be a Quant developer/ Neural network developer under Machine learning which high paying job and your career will be secured
   
 2. Or, You can start with front end development 
 
