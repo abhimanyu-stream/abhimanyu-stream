@@ -39,7 +39,7 @@ Instead of this
 
 [B] non engineering profile
 
-Study Mathematics/Physics/Statistics during graduation/pg and then/simultaneously learn a programming like c++/python with DSA, Reasonings/ Puzzle/ Aptitude mathematics, in this way you work in these profile Quant /Neural network ML
+Study Mathematics/Physics/Statistics during graduation/pg and then/simultaneously learn a programming like c++/python/Rust with DSA, Reasonings/ Puzzle/ Aptitude mathematics, in this way you work in these profile Quant /Neural network ML
 
   
 
