@@ -12,3 +12,12 @@ LinkedIn: https://www.linkedin.com/in/abhimanyu-kumar-5455ab163/
 Twitter:  https://x.com/StreamAbhimanyu
 
 GitHub:   https://github.com/abhimanyu-stream
+
+
+
+
+
+
+################Suggestions for Freshers######################
+Do not choose Java as a career path as a fresher.
+Instead of this, in development profile you can start with C/C++/JavaScript/Python with knowledge of [Mathematics/Statistics/Algorithm Data structure/ Finance Mathematics/Statistics ]. You can be a Quant developer/ Neural network developer under Machine learning which high paying job and your career will be secured 
