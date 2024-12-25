@@ -5,7 +5,7 @@ I've worked with different languages and stacks over my career, but for the past
 
 
 
-   I am currently focusing on to be Quant and Neural Network developer.
+I am currently focusing on to be Quant and Neural Network development.
 
 You can find me at:-
 
