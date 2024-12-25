@@ -19,29 +19,5 @@ GitHub:   https://github.com/abhimanyu-stream
 
 
 
-
-
-################Suggestions for Freshers######################
-
-
-
-Do not choose Java as a career path as a fresher.
-
-Instead of this
-
-[A] engineering profile
-1. in development profile you can start with C/C++/Rust/JavaScript/Python with knowledge of [Mathematics/Statistics/Algorithm Data structure/ Finance Mathematics/Statistics ]. You can be a Quant developer/ Neural network developer under Machine learning which high paying job and your career will be secured
-
-2. Or, You can start with front end development
-3. Or, learn CI/CD pipeline creating on any cloud provider
-4. Or, be SQL query writing expert
-5. Or, do MBA from IIM
-
-[B] non engineering profile
-
-Study Mathematics/Physics/Statistics during graduation/pg and then/simultaneously learn a programming like c++/python/Rust with DSA, Reasonings/ Puzzle/ Aptitude mathematics, in this way you work in these profile Quant /Neural network ML
-
-  
-
    
 
