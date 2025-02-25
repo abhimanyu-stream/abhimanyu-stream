@@ -1,7 +1,7 @@
 ﻿
 
 Hey, I'm Abhimanyu
-I've worked with different languages and stacks over my career, but for the past 7 years I've been mostly focused on Java and its ecosystem, and mostly working in Spring Boot for the past 6+ years. I care about software architecture, data modeling, and building resilient products. I have also worked on C/C++, Nodejs, and Rust.
+I've worked with different languages and stacks over my career, but for the past 7 years I've been mostly focused on Java and its ecosystem, and mostly working in Spring Boot for the past 7+ years. I care about software architecture, data modeling, and building resilient products. I have also worked on C/C++, Nodejs, and Rust.
 
 
 
