@@ -1,11 +1,12 @@
 ﻿
 
 Hey, I'm Abhimanyu
-I've worked with different languages and stacks over my career, but for the past 7 years I've been mostly focused on Java and its ecosystem, and mostly working in Spring Boot for the past 7+ years. I care about software architecture, data modeling, and building resilient products. I have also worked on C/C++, Nodejs, and Rust.
 
+I've worked with different languages and stacks over my career, but for the past 7 years I've been mostly focused on Java and its ecosystem, and mostly working in Spring Boot for the past 7+ years. I care about software architecture, data modeling, and building resilient products. I have also worked on C/C++, Nodejs, and Rust, Quantative stock application(trading and investing), Trading Bot.
 
+CI/CD Pipeline, Data Pipeine on aws, azure cloud.
 
-I am currently focusing on to be Quant and Neural Network development.
+I am currently focusing on to be Java backend development job opportunities.
 
 You can find me at:-
 
@@ -20,4 +21,5 @@ GitHub:   https://github.com/abhimanyu-stream
 
 
    
+
 
