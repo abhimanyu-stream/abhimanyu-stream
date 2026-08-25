@@ -2,6 +2,9 @@
 
 Hi, I’m Abhimanyu.
 
+Note:- Currently I am interested in devops and data engineering work opportunities.
+
+
 I’m a backend engineer with 7+ years of experience building high-performance, scalable systems, primarily in Java and the Spring ecosystem. Over the years, my work has centered on designing clean software architectures, robust data models, and systems that remain reliable under heavy load and real-world failure conditions.
 
 I specialize in event-driven and asynchronous architectures, with deep hands-on experience across the Kafka ecosystem—Kafka brokers (KRaft and ZooKeeper), Kafka Streams, Kafka Connect (including Debezium for CDC), Schema Registry, and secure, production-grade messaging pipelines. I’ve used these patterns to build payment platforms, fraud-detection pipelines, real-time analytics, and notification systems processing thousands of events per second.
